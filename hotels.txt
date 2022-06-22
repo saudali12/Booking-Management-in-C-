@@ -1,0 +1,63 @@
+Pearl Continental
+karachi
+8900
+Pearl Continental
+islamabad
+11000
+Pearl Continental
+lahore
+12000
+Pearl Continental
+quetta
+12300
+Pearl Continental
+peshawar
+8000
+Pearl Continental
+faislabad
+9400
+Pearl Continental
+multan
+7300
+Movenpick
+karachi
+9900
+Movenpick
+islamabad
+13000
+Movenpick
+lahore
+13000
+Movenpick
+quetta
+9300
+Movenpick
+peshawar
+8000
+Movenpick
+faislabad
+7400
+Movenpick
+multan
+7300
+Ramada
+karachi
+7900
+Ramada
+islamabad
+9000
+Ramada
+lahore
+14000
+Ramada
+quetta
+12300
+Ramada
+peshawar
+8000
+Ramada
+faislabad
+7400
+Ramada
+multan
+9300

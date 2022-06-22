@@ -1,0 +1,20 @@
+1.Corolla
+2800
+2.Civic
+3000
+3.City
+2300
+4.Yaris
+2300
+5.Brv
+3400
+6.MG
+3800
+7.Fortuner
+8000
+8.Hilux
+7000
+9.Land Cruiser
+13500
+10.Lexus
+21000
